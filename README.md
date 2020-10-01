@@ -1,4 +1,4 @@
-# Single Cycle circuit
+# Single Circuit
 electrical circuit university project 
 
 This project receives 3 entries in the first window:
